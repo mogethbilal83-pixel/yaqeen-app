@@ -1,0 +1,21 @@
+{
+  "name": "يقين | Yaqeen",
+  "short_name": "يقين",
+  "description": "تطبيق إسلامي للتسبيح والأذكار",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#061a13",
+  "theme_color": "#0b6b4b",
+  "icons": [
+    {
+      "src": "./icons/yaqeen.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
